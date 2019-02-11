@@ -19,4 +19,6 @@ Try to implement as many as possible of the following.  As always, done is bette
 
 ## Submissions
 
-* Submit your work in the form of a pull request against Issue #1 with your name in the branch title
+* Create and assign yourself an issue
+* Submit your work in the form of a pull request that closes the issue. 
+* Your branch should have the naming convention `feature-issue-number-your-name`.
