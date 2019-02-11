@@ -16,3 +16,7 @@ Try to implement as many as possible of the following.  As always, done is bette
 
 * Feel free to implement with jQuery, vanilla JavaScript, or React
 * This afternoon's solution will be presented using only vanilla JS
+
+## Submissions
+
+* Submit your work in the form of a pull request against Issue #1 with your name in the branch title
